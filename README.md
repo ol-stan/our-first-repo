@@ -1,2 +1,2 @@
-# our-first-repo
-Description for our first repo
+# Name: our-first-repo
+Description: Description for our first repo
